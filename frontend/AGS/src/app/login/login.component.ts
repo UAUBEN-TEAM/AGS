@@ -7,9 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LoginComponent implements OnInit {
 
+  count = 0;
+
   constructor() { }
 
   ngOnInit(): void {
+    setInterval(() => {
+        this.count++;
+    }, 10);
   }
 
 }
