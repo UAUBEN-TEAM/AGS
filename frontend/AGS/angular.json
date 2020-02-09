@@ -123,10 +123,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "AGS",
-  "cli": {
-    "analytics": "310c4d1d-7a7c-4bf7-8876-5824c8a50ba3"
-  }
+    }},
+  "defaultProject": "AGS"
 }
